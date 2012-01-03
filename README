@@ -1,0 +1,5 @@
+Port of the XNA Platformer to flixel:
+
+http://create.msdn.com/en-US/education/catalog/sample/platformer
+
+The port is not intended to duplicate all of the physics and methodology of the XNA Platformer, but instead use the flixel framework for the equivalent functionality.
